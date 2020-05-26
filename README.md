@@ -2,7 +2,7 @@
 
 ## Welcome
 
-Welcome to the Wearable Technology Interest Group at DoESLiverpool
+Welcome to the Wearable Technology Interest Group at [DoESLiverpool](https://doesliverpool.com)
 
 ![Wearable Modules by Laura Pullig](./img/WearbleTech.png)
 
