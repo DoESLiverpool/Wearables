@@ -1,6 +1,6 @@
 # Wearables
 
-## Content for Wearable Technology Interest Group at DoESLiverpool
+Content for Wearable Technology Interest Group at DoESLiverpool
 
 ![Wearable Modules by Laura Pullig](./img/WearbleTech.png)
 
