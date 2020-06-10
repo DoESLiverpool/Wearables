@@ -1,4 +1,3 @@
-# Welcome
 
 Welcome to the Wearable Technology Interest Group at [DoESLiverpool](https://doesliverpool.com)!
 
