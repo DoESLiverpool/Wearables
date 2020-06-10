@@ -16,7 +16,7 @@ If you've never stitched a circuit before then come along and someone will be ha
 
 The **Wearable Tech group** meets at **7pm** on the **second and fourth Tuesday** of each month, at [DoES Liverpool](https://doesliverpool.com/location/).
 
-Since the COVID-19 crisis however we meet online [here](https://meet.jitsi.com/bubblino) until further notice.
+Since the COVID-19 crisis however we meet online [here](https://meet.jit.si/bubblino) until further notice.
 
 Check the [calendar](http://doesliverpool.com/calendar/) if in doubt.
 
