@@ -12,9 +12,11 @@ This is a seperate project repository and [Wearable Wiki](https://github.com/DoE
 
 If you've never stitched a circuit before then come along and someone will be happy to show you how. We have a box of wearable-related items you can experiment with - including fabrics, wearable microcontrollers, conductive thread, sewable LEDs, and interesting sensors.
 
-### When do we do it?
+### When & Where do we do it?
 
 The **Wearable Tech group** meets at **7pm** on the **second and fourth Tuesday** of each month, at [DoES Liverpool](https://doesliverpool.com/location/).
+
+Since the COVID-19 crisis however we meet online [here](https://meet.jitsi.com/bubblino) until further notice.
 
 Check the [calendar](http://doesliverpool.com/calendar/) if in doubt.
 
